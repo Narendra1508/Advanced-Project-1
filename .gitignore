@@ -127,16 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-
-# input data and models
-input/
-models/
-
-
-# data files
-*.csv
-*.h5
-*.pkl
-*.pth
-© 2020 GitHub, Inc.
+dataset/wetransfer-5be6ae.zip
+dataset/wetransfer-231115.zip
+.vs/VSWorkspaceState.json
+readable_sample_data.json
+.vscode/settings.json
+.idea/Advanced Project 1.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.vs/slnx.sqlite
+.vs/Advanced Project 1/v16/.suo
